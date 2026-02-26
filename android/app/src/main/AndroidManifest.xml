@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.gokadzev.musify">
+    package="com.melodify.app">
 
 
     <!-- Permissions -->
@@ -30,7 +30,7 @@
     </queries>
 
     <application
-        android:label="Musify"
+        android:label="Melodify"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher"
         android:enableOnBackInvokedCallback="true"
